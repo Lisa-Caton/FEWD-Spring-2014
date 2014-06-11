@@ -1,0 +1,25 @@
+/*Add your CSS below!*/
+
+div {
+	display: inline-block;
+	margin-left: 5px;
+	height:32px;
+	width:32px;
+	border-radius:100%;
+	border:2px solid #000;
+}
+.friend{
+    border:2px dotted #008000;
+    }
+.family{
+    border:2px dashed #00f;
+    }
+.enemy{
+    border:2px dashed #f00;
+    }
+#best_friend{
+    border:4px solid #black;
+    }
+#archnemesis{
+    border:4px solid yellow;
+    }
