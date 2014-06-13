@@ -1,38 +1,38 @@
-Page
+Page - done
 	- Background #666
 
-Frame
+Frame = "FRAME" - done
 	- background #fff
 	- 975px wide
 
-Content 
+Content = "CONTAINER" - done
 	- 775px wide
 
-Page Title 
+Page Title = "H1" - done
 	- Georgia Bold, 42px, 1, #930
 
-Section Title
+Section Title = "H2" - done
 	- Georgia Bold, 28px, 1, #333
 
-Sub-Section Title
+Sub-Section Title = "H3"
 	- Georgia Bold Italic, 22px, 1, #333
 
-List Title
+List Title = ["List-Title"] - done
 	- Georgia Bold, all caps, 14px, 1, #999
 
-Paragraph
+Paragraph - done
 	- Helvetica, 14px, 1.8, #333
 
-Lists
+Lists - done
 	- Helvetica, 14px, 1.8, #333
 
-Links
+Links - done
 	- #930
 
-Quotes
+Quotes - done
 	- Georgia Italic, 16px, 1.8, #333
 	- Background #f6f6f6
 	- Left border, 10px, #e3e3e3
 
-Dividers
+Dividers- done
 	- 1px #e5e5e5
