@@ -5,11 +5,12 @@
 	}
 .container{
 	background-color: #fff;
-	margin-left:88px;
-	margin-top:-28px;
+	/*margin-left:88px;*/
+	/*margin-top:-28px;*/
 	padding-bottom: 40px;
 	padding-top: 40px;
 	width:775px;
+	margin: 0 100px;
 }
 h1{
 	color:#930;
@@ -38,6 +39,7 @@ h4{
 }
 body{
 	background-color: #666;
+	margin:0;
 }
 p{
 	color:#333;
