@@ -1,0 +1,238 @@
+/*Start of Top Section*/
+body {
+	padding: 0;
+	margin: 60px 0;
+}
+.wrapper {
+	margin:0 auto;
+	width:940px;
+}
+.frame {
+	background: #fff;
+	margin: 0 auto;
+	width: 1150px;
+}
+.container {
+	background-color: #fff;
+	margin: 0 auto;
+	width: 940px;
+}
+.header {
+	background: #241915 url(../images/beans.jpg) no-repeat;
+	height: 450px;
+	margin: 0 auto;
+	position: relative;
+	width: 940px;
+}
+.logo {
+	background: url(../images/logo.png);
+	bottom: 0;
+	height: 103px;
+	left: 0;
+	margin: auto;
+	overflow: hidden;
+	position: absolute;
+	right: 0;
+	top: 0;
+	text-indent: 100%;
+	width: 271px;
+	white-space: nowrap;
+}
+.top-text {
+	padding-top:105px;
+	padding-bottom: 105px;
+}
+.top-text
+h1 {
+	color: #261913;
+	font: 100 32px/1 Georgia, sans-serif;
+	padding-bottom: 10px;
+	text-align: center;
+}
+.top-text 
+p {
+	color: #666;
+	display: block;
+	font: 300 18px/1.5 Helvetica, sans-serif;
+	margin: 0 auto;
+	text-align: center;
+	width: 527px;
+	word-spacing: 1px;
+}
+/*End of Top Section*/
+
+/*Start of Coffee Bar Menu - STYLED by LIST*/
+.clearfix :after {
+	content: '';
+	clear: both;
+	display: block;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+.wrapper-menu {
+	background-color: #f6f6f6;
+	margin: 0 auto;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	width: 780px;
+}
+.menu-list {
+	margin: 0;
+	overflow: hidden;
+	width: 700px; 
+}
+.wrapper-menu h1 {
+	color: #6D3B1C;
+	font: 100 28px/1 Georgia, serif;
+	margin-bottom: 60px;
+	text-align: center;
+}
+.menu-list .menu-item {
+	border-bottom: 1px solid #ccc;
+	color: #666;
+	font: normal 15px/1.5 Helvetica, sans-serif;
+	list-style: none;
+	margin:5px 0;
+	padding: 10px 0;
+	text-align: left;
+	width: 48%;
+}
+.menu-price.right {
+	color: #999;
+	font: normal 18px/1.5 Helvetica, sans-serif;
+	margin-right: 48px;
+}
+.menu-list .menu-item.no-border { 
+	border:none;
+}
+/*End of Coffee Bar Menu - STYLED by LIST*/
+
+/*Start of Coffee Bar Menu - STYLED by TABLE*/
+table {
+	clear: both;
+	background-color: #f6f6f6;
+	border-collapse: collapse;
+	margin: 0 auto;
+	width: 670px;
+}
+th {
+	color:#6D3B1C;
+	font: 100 28px/1 Georgia, serif;
+	padding-bottom: 60px;
+}
+td.menu-item {
+	border-bottom:1px solid #ccc; 
+	color: #666;
+	font: normal 15px/1.5 Helvetica, sans-serif;
+	padding:16px 0;	
+}
+td.menu-price {
+	border-bottom:1px solid #ccc;
+	color: #999;
+	font: normal 18px/1.5 Helvetica, sans-serif;
+	margin-right:20px; 
+	text-align: left;\
+}
+td.menu-item.no-border {
+	border:none;
+}
+td.menu-price.no-border {
+	border:none;
+}
+.menu-spacer {
+	border-bottom: none;
+	width: 60px;
+}
+/*End of Coffee Bar Menu - STYLED by TABLE*/
+
+/*Start of Hours and Location*/
+.information {
+	clear: both;
+	display: table;
+	margin: 0 auto;
+	width: 780px;
+	word-spacing: 1px;
+}
+.information h1 {
+	color: #261913;
+	font: normal 20px/1 Georgia, serif;
+	text-transform: uppercase;
+}
+span.space {
+	display: inline-block;
+	margin: 10px 0;
+}
+.info-left {
+	color: #666;
+	float: left;
+	font: 300 15px/1.5 Helvetica, sans-serif;
+	margin: 120px 40px;
+}
+.info-right {
+	float: right;
+	height:300px;
+	margin: 120px 40px;
+	width: 300px;
+}
+.button {
+	border: 3px solid #603f26;
+	color: #603f26;
+	font: normal 15px/1.5 Helvetica, sans-serif;
+	margin: 50px 0;
+	padding: 5px;
+	text-align: center;
+	width: 130px;
+}
+a:hover {
+	color: #CB9E0C;
+	text-decoration: none;
+}
+a {
+	text-decoration: none;
+}
+/*End of Hours and Location*/
+
+/*Start of Footer*/
+.footer {
+	color: #fff;
+	background-color: #241915;	
+	padding: 50px 0 60px;
+	font: normal 13px/1.5 Helvetica, sans-serif;
+	height: 171px;
+	text-transform: uppercase;
+}
+p.copyright {
+	background-color: #241915;	
+	float: left;
+	padding: 0 20px;
+	margin: 0;
+}
+.icon {
+	background: url(../images/icon.png);
+	display: block;
+	height: 45px;
+	margin: 0 auto -30px;
+	overflow: hidden;
+	text-indent: 100%;
+	width: 45px;
+	white-space: nowrap;
+}
+.social-nav {
+	background-color: #241915;
+	float: right;
+	margin: 0;
+	padding: 0 32px;
+	text-decoration: none;
+}
+.social-nav a {
+	color: #fff;
+	display: inline-block;
+	text-decoration: none;
+}
+/*End of Footer*/
+
+
